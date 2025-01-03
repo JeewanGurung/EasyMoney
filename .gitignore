@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EasyMoney/EasyMoney.csproj.user
+/EasyMoney/obj
+/EasyMoney/bin
+/UranusHRM/bin
+/EasyMoney/Properties/PublishProfiles
+
+
+
+
+**/.vs
+**/.vscode
+**/*.*proj.user
+**/bin
+**/charts
+**/obj
+LICENSE
+README.md
